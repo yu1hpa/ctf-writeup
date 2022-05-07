@@ -1,3 +1,4 @@
+# blog.y2a.dev/articles/2022/05-07/fastbin_tutorial
 from pwn import *
 
 file = "./chall"
