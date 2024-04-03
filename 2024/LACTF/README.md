@@ -1,0 +1,12 @@
+# LACTF
+- [x] 52_card_monty
+- [x] aplet123
+- [x] sus
+- [] pizza
+- [] 53_card_monty
+- [] flipma
+- [] heapsort
+- [] polypwn
+- [] ppplot
+- [] woogie_boogie
+- [] yacc
