@@ -2,6 +2,6 @@
 
 - [x] baby-shellcode
 - [x] basic-overflow
-- [x] nothing_to_return
-- [x] patched_shell
+- [x] nothing-to-return
+- [x] patched-shell
 
